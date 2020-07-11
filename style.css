@@ -1,0 +1,14 @@
+.cities_list {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.card {
+    align-items: center;
+}
+
+.card-img-top {
+    width: 50% !important;
+}
